@@ -18,7 +18,7 @@ A full-stack Recipe Management Application built with Next.js 14+ App Router.
 - Ingredient scaling with serving adjuster
 - Metric / Imperial unit conversion
 - Per-step countdown timers
-- Personal cookbook with localStorage persistence
+- Personal cookbook
 - Create / Edit / Delete recipes
 - Star rating system
 - Dark / Light theme
@@ -41,20 +41,3 @@ echo "NEXT_PUBLIC_APP_URL=http://localhost:3000" > .env.local
 
 # Run dev server
 npm run dev
-\`\`\`
-
-## 📁 Folder Structure
-\`\`\`
-app/          → Pages + API routes
-components/   → Reusable UI components
-context/      → CookingContext
-hooks/        → Custom hooks
-lib/          → Utilities + data store
-store/        → Redux slices
-types/        → TypeScript types
-\`\`\`
-
-## 🔑 Environment Variables
-\`\`\`
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-\`\`\`
