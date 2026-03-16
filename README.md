@@ -41,4 +41,3 @@ echo "NEXT_PUBLIC_APP_URL=http://localhost:3000" > .env.local
 
 # Run dev server
 npm run dev
-\`\`\`
