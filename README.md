@@ -28,7 +28,7 @@ A full-stack Recipe Management Application built with Next.js 14+ App Router.
 
 \`\`\`bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/recipe-management-app.git
+git clone https://github.com/Ketannn26/recipe-management-app.git
 
 # Navigate into project
 cd recipe-management-app
