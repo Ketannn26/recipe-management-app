@@ -26,7 +26,7 @@ export function Navbar() {
           className="flex items-center gap-2 font-bold text-lg text-amber-600"
         >
           <ChefHat className="w-6 h-6" />
-          RecipeApp
+          RasoiApp
         </Link>
 
         {/* Nav Links */}

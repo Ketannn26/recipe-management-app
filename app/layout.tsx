@@ -9,7 +9,7 @@ import { Navbar } from "@/components/Navbar";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Recipe Management App",
+  title: "Rasoi Management App",
   description: "Browse, save and cook your favourite recipes",
 };
 
